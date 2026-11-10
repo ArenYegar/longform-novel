@@ -1,0 +1,12 @@
+﻿# 仅收录作品正文与说明；以下一律不入库
+*.json
+*.jsonl
+*.py
+*.log
+.env
+.env.*
+__pycache__/
+world/
+runs/
+probe/
+tools/
